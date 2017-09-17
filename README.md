@@ -1,6 +1,15 @@
 # Queries
 ### A CSS media query cheatmap.
 
+* [iPad](#ipad)
+* [iPad 3 & 4 (Retina)](#ipad-3--4-retina)
+* [iPad 1 & 2 (Non-Retina)](#ipad-1--2-non-retina)
+* [iPad mini](#ipad-mini)
+* [iPhone 6 & 7](#iphone-6--7)
+* [iPhone 6 & 7 Plus](#iphone-6--7-plus)
+* [iPhone 5 & 5S](##iphone-5--5s)
+* [iPhone 2G & 3G & 4 & 4S](#iphone-2g--3g--4--4s)
+
 ## iPad
 ### Portrait and Landscape
 ```css
